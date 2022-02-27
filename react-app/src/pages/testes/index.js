@@ -5,6 +5,7 @@ import List from '@components/List';
 import Evento from '@components/Evento';
 import Form from '@components/Form';
 import Condicional from '@components/Condicional';
+import Map from '@components/Map';
 
 export default function Testes () {
     const pessoa = {
@@ -26,6 +27,7 @@ export default function Testes () {
             <Form/>
             <hr />
             <Condicional/>
+            <Map/>
         </>
     )
 }
