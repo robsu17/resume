@@ -9,8 +9,11 @@ i18n.use(Backend).use(LanguageDetector).use(initReactI18next).init({
     fallbackLng: 'pt_BR',
     debug: false,
     detection: {
-        order: ['queryString', 'cookie'],
-        cache: ['cookie']
+        caches: ['cookie'],
+        cookieSameSite: 'strict',
+        lookupQuerystring: 'lang',
+        lookupCookie: 'next-i18next',
+        order: ['querystring', 'cookie', 'header']
     },
     interpolation: {
         escapeValue: false
