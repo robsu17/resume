@@ -16,11 +16,17 @@ i18n.use(Backend).use(LanguageDetector).use(initReactI18next).init({
         escapeValue: false
     },
     resources: {
+        de: {
+            translation: locales.de
+        },
         en: {
             translation: locales.en
         },
-        de: {
-            translation: locales.de
+        es: {
+            translation: locales.es
+        },
+        fr: {
+            translation: locales.fr
         },
         pt_BR: {
             translation: locales.pt_BR
