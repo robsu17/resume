@@ -1,7 +1,7 @@
 import Header from '@components/Header';
 import Sidebar from './Sidebar';
 import Timeline from './Timeline';
-// import Footer from '@components/Footer';
+import Footer from '@components/Footer';
 
 export default function Resume () {
     return (
@@ -11,7 +11,7 @@ export default function Resume () {
                 <Sidebar/>
                 <Timeline/>
             </section>
-            {/* <Footer/> */}
+            <Footer/>
         </>
     )
 }
