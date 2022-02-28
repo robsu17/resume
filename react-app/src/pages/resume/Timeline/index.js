@@ -52,7 +52,9 @@ export default function Timeline () {
                     </svg>
                     Ceará, Brasil
                     </span>
-                    <p className="text-xs text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In molestie quam velit, non venenatis magna imperdiet vitae. Praesent laoreet tristique quam tempor lobortis.</p>
+                    <p className="text-xs text-justify">
+                        As a full stack developer and partner I was responsible for developing all the company’s products, such as Web, Desktop and Mobile Applications Software. I’ve used technologies like Node, Vue.js, React Native and Electron.
+                    </p>
                 </div>
                 </article>
                 <article className="flex">
@@ -103,7 +105,9 @@ export default function Timeline () {
                     </svg>
                     Ceará, Brasil
                     </span>
-                    <p className="text-xs text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In molestie quam velit, non venenatis magna imperdiet vitae. Praesent laoreet tristique quam tempor lobortis.</p>
+                    <p className="text-xs text-justify">
+                        Studied web programming since 2007 and in 2010 I started to work as a freelancer developing websites for companies in different segments and in several regions of Brazil using technologies such as HTML, CSS, Javascript, PHP and MySQL.
+                    </p>
                 </div>
                 </article>
             </section>
