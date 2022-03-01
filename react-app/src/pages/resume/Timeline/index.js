@@ -1,6 +1,6 @@
 import { useTranslation } from 'react-i18next'
 export default function Timeline () {
-    const { t, i18n } = useTranslation()
+    const { t } = useTranslation()
 
     return (
         <main className="grow py-4">
