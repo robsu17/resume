@@ -4,8 +4,8 @@ const resume = {
     },
     profile: {
         name: "Luciano Braga",
-        title: "Desenvolvedor de software sênior",
-        description: "Desenvolvedor desde 2007, sempre com grande interesse na resolução de problemas cotidianos através da tecnologia, principalmente a programação de computadores, utilizando linguagens para Web, Mobile ou Desktop."
+        title: "Senior Full Stack Developer ",
+        description: "Developer since 2007, always with great interest in solving everyday problems through technology, especially computer programming, using languages for Web, Mobile or Desktop."
     },
     contacts: {
         title: "Contacts"
@@ -14,7 +14,7 @@ const resume = {
         title: "Education",
         list: {
             0: {
-                course: "Ciência da Computação",
+                course: "Computer Science",
                 school: "Universidade Estadual do Vale do Acaraú",
                 location: "Sobral",
                 date: "2018 - 2018"
@@ -35,7 +35,7 @@ const resume = {
                 role: "Senior Frontend",
                 location: "São Paulo, Brasil",
                 company: "Banco Modal",
-                description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In molestie quam velit, non venenatis magna imperdiet vitae. Praesent laoreet tristique quam tempor lobortis.'
+                description: 'Collaborating with the Risk Squad of Banco Modal, an institution belonging to the XP Group that operates in the asset market with current account, credit and investment operations, as a Senior Frontend developing projects in the Stock Exchange and Home Brocker areas'
             },
             devsquad: {
                 period: "JAN/2021 - SET/2021",
@@ -49,28 +49,28 @@ const resume = {
                 role: "Senior Software Engeneer",
                 location: "Ceará, Brasil",
                 company: "iTransparência Sistemas",
-                description: 'As a full stack developer and partner I was responsible for developing all the company’s products, such as Web, Desktop and Mobile Applications Software. I’ve used technologies like Node, Vue.js, React Native and Electron.'
+                description: 'As a Software Engeneer and founding partner I was responsible for developing all the company’s products, such as Web, Desktop and Mobile Applications Software. I’ve used technologies like Node, Vue.js, React Native and Electron.'
             },
             amagafa: {
                 period: "MAR/2016 - AGO/2016",
-                role: "Desenvolvedor Frontend",
+                role: "Frontend Developer",
                 location: "São Paulo, Brasil",
                 company: "Amagafa Tech",
-                description: 'Trabalhando em um time de 10 pessoas nós construímos uma aplicação de e-learning para treinamento de primeira habilitação e reciclagem de CNH.'
+                description: 'Working in a team of 10 people we built an e-learning application for first-time driver training and CNH refresher training.'
             },
             iblue: {
                 period: "2013 - 2014",
-                role: "Desenvolvedor Web",
+                role: "Web Developer",
                 location: "Ceará, Brasil",
                 company: "iBlue",
-                description: 'Trabalhando na iBlue tive a oportunidade de aprender diversas tecnologias para Web e Mobile, por se tratar de uma Startup jovem e em desenvolvimento.'
+                description: 'Working at iBlue, I had the opportunity to learn different technologies for Web and Mobile, as it is a young and developing Startup.'
             },
             freelancer: {
-                period: "2010 - 2013",
+                period: "2007 - 2013",
                 role: "Web Developer",
                 location: "Ceará, Brasil",
                 company: "Freelancer",
-                description: 'Studied web programming since 2007 and in 2010 I started to work as a freelancer developing websites for companies in different segments and in several regions of Brazil using technologies such as HTML, CSS, Javascript, PHP and MySQL.'
+                description: 'Studying web programming since 2007, I started as a freelancer developing websites for companies from different segments and regions of Brazil using technologies such as HTML, CSS, Javascript, PHP and MySQL.'
             }
         }
     },

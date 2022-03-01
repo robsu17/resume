@@ -20,7 +20,7 @@ export default function Header () {
                 <div className="ml-8 py-2">
                     <h1 className="text-4xl text-neutral-600 uppercase relative"><span className="font-semibold">Luciano</span> Braga <ButtonPrint /></h1>
                     <h5 className="text-xl text-neutral-600 uppercase font-light py-4">{ t("resume.profile.title") }</h5>
-                    <p className="text-neutral-500 text-sm text-justify">Desenvolvedor desde 2007, sempre com grande interesse na resolução de problemas cotidianos através da tecnologia, principalmente a programação de computadores, utilizando linguagens para Web, Mobile ou Desktop.</p>
+                    <p className="text-neutral-500 text-sm text-justify">{ t("resume.profile.description") }</p>
                 </div>
             </div>
         </header>
