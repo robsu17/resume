@@ -2,7 +2,7 @@ import skills from '@api/skills.json'
 import { useTranslation } from 'react-i18next'
 
 export default function Skills () {
-    const { t, i18n } = useTranslation()
+    const { t } = useTranslation()
 
     return (
         <div>
