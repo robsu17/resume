@@ -6,7 +6,7 @@ import flag_us from '@assets/img/flags/us.svg'
 // import flag_de from '@assets/img/flags/de.svg'
 
 export default function Translate () {
-    const { t, i18n } = useTranslation()
+    const { i18n } = useTranslation()
 
     const changeLanguage = (language) => {
         i18n.changeLanguage(language)
