@@ -1,7 +1,10 @@
+import { useTranslation } from 'react-i18next'
 export default function Timeline () {
+    const { t, i18n } = useTranslation()
+
     return (
         <main className="grow py-4">
-            <h2 className="text-xl text-neutral-700 uppercase font-semibold pb-2 mb-4">Professional Experiences</h2>
+            <h2 className="text-xl text-neutral-700 uppercase font-semibold pb-2 mb-4">{ t("resume.experiences.title") }</h2>
             <section>
                 <article className="flex">
                 <div className="w-48 flex-none relative border-r border-neutral-400 pb-4 pr-4">
