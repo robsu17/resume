@@ -5,7 +5,7 @@ const resume = {
     profile: {
         name: "Luciano Braga",
         title: "Senior Full Stack Developer ",
-        description: "Developer since 2007, always with great interest in solving everyday problems through technology, especially computer programming, using languages for Web, Mobile or Desktop."
+        description: "Involved with web development since 2007, always with a keen interest in solving everyday problems by applying technology, especially computer programming, using languages for Web, Mobile or Desktop."
     },
     contacts: {
         title: "Contacts"
@@ -33,44 +33,44 @@ const resume = {
             modal: {
                 period: "AGO/2021 - NOW",
                 role: "Senior Frontend",
-                location: "São Paulo, Brasil",
+                location: "São Paulo, Brazil",
                 company: "Banco Modal",
-                description: 'Collaborating with the Risk Squad of Banco Modal, an institution belonging to the XP Group that operates in the asset market with current account, credit and investment operations, as a Senior Frontend developing projects in the Stock Exchange and Home Brocker areas'
+                description: 'Collaborating with the Risk Squad of Modal Bank - an XP Group bank that operates in the assets market with checking account, loan and Investment operations - as a Senior Frontend, developing projects in the Exchange and Home Broker areas.'
             },
             devsquad: {
                 period: "JAN/2021 - SET/2021",
                 role: "Full Stack Developer",
                 location: "Utah, EUA",
                 company: "DevSquad",
-                description: 'Acting as a full-stack developer of modern and scalable web applications for the biggest companies in the USA, using SCRUM for project management. Docker, PHP 8, Laravel 8, Vue.js, Livewire, and TailwindCSS are the main technologies used in these projects.'
+                description: 'Serving as a full-stack developer of modern and scalable web applications for large US companies, utilizing SCRUM for project management, Docker, PHP 8, Laravel, Vue.js, Livewire and TailwindCSS as the main technologies.'
             },
             itransparencia: {
                 period: "2017 - 2021",
                 role: "Senior Software Engeneer",
-                location: "Ceará, Brasil",
+                location: "Ceará, Brazil",
                 company: "iTransparência Sistemas",
-                description: 'As a Software Engeneer and founding partner I was responsible for developing all the company’s products, such as Web, Desktop and Mobile Applications Software. I’ve used technologies like Node, Vue.js, React Native and Electron.'
+                description: 'As a software engineer and founding partner, I led the development of all the company\'s products: web, desktop and mobile applications, utilizing technologies such as PHP/Laravel, Javascript/Node/Vue.js, React Native and Electron.'
             },
             amagafa: {
                 period: "MAR/2016 - AGO/2016",
                 role: "Frontend Developer",
-                location: "São Paulo, Brasil",
+                location: "São Paulo, Brazil",
                 company: "Amagafa Tech",
-                description: 'Working in a team of 10 people we built an e-learning application for first-time driver training and CNH refresher training.'
+                description: 'As part of a 10-person team, we built an e-learning tool for first-time and refresher driver\'s license training.'
             },
             iblue: {
                 period: "2013 - 2014",
                 role: "Web Developer",
-                location: "Ceará, Brasil",
+                location: "Ceará, Brazil",
                 company: "iBlue",
-                description: 'Working at iBlue, I had the opportunity to learn different technologies for Web and Mobile, as it is a young and developing Startup.'
+                description: 'While at iBlue, I had and took the opportunity to learn several technologies for Web and Mobile, as it is a young and emerging startup.'
             },
             freelancer: {
                 period: "2007 - 2013",
                 role: "Web Developer",
-                location: "Ceará, Brasil",
+                location: "Ceará, Brazil",
                 company: "Freelancer",
-                description: 'Studying web programming since 2007, I started as a freelancer developing websites for companies from different segments and regions of Brazil using technologies such as HTML, CSS, Javascript, PHP and MySQL.'
+                description: 'Having studied web programming since 2007, I began as a freelancer, developing websites for companies in various segments and from different regions of Brazil, utilizing technologies such as: HTML, CSS, Javascript, PHP and MySQL.'
             }
         }
     },
