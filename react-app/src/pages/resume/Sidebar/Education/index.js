@@ -13,7 +13,7 @@ export default function Education () {
                 </svg>
                 { t("resume.education.title") }
             </h2>
-            <p className="font-bold text-neutral-700">{ t("resume.education.list.0.course") }</p>
+            <p className="font-bold text-neutral-700 text-sm">{ t("resume.education.list.0.course") }</p>
             <p className="font-light text-neutral-500 text-sm">{ t("resume.education.list.0.school") }, { t("resume.education.list.0.location") }</p>
             <p className="text-neutral-500 text-sm">{ t("resume.education.list.0.date") }</p>
         </div>
