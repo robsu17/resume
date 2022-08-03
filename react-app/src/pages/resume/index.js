@@ -7,7 +7,7 @@ export default function Resume () {
     return (
         <>
             <Header/>
-            <section className="md:flex mx-auto max-w-screen-md">
+            <section className="md:flex print:flex mx-auto max-w-screen-md">
                 <Sidebar/>
                 <Timeline/>
             </section>
