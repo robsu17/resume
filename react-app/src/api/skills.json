@@ -1,7 +1,30 @@
 [
-    { "id": 1, "name": "Javascript", "percent": "85%" },
-    { "id": 2, "name": "PHP/Laravel", "percent": "90%" },
-    { "id": 3, "name": "Node.js", "percent": "85%" },
-    { "id": 4, "name": "Vue.js", "percent": "80%" },
-    { "id": 5, "name": "React|Angular", "percent": "55%" }
+    {
+        "id": 1,
+        "name": "Javascript | Typescript | Node.js"
+    },
+    {
+        "id": 2,
+        "name": "PHP | Laravel | MySQL | AWS"
+    },
+    {
+        "id": 3,
+        "name": "SASS | BEM | EsLint | Prettier"
+    },
+    {
+        "id": 4,
+        "name": "Vue.js | React | Angular"
+    },
+    {
+        "id": 5,
+        "name": "Jest | Cypress | PHPUnit"
+    },
+    {
+        "id": 6,
+        "name": "Scrum | Kanban | Git | Gitflow"
+    },
+    {
+        "id": 7,
+        "name": "Design Patterns | Clean Code"
+    }
 ]

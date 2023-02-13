@@ -5,7 +5,7 @@ const resume = {
     profile: {
         name: "Luciano Braga",
         title: "Senior Full Stack Developer ",
-        description: "Involved with web development since 2007, always with a keen interest in solving everyday problems by applying technology, especially computer programming, using languages for Web, Mobile or Desktop."
+        description: "I have been involved in software development since 2007, with a focus on using technology, particularly computer programming, to solve practical problems across web, mobile, and desktop platforms. My passion for programming has driven me to expand my skills and tackle challenging projects continually."
     },
     contacts: {
         title: "Contacts"
@@ -30,8 +30,16 @@ const resume = {
     experiences: {
         title: "Professional Experiences",
         companies: {
+            maitha: {
+                period: "AGO/2022 - Atual",
+                role: "Software Engeneer",
+                location: "São Paulo, Brasil",
+                company: "Maitha Tech",
+                description: 'At Maitha Tech, a technology consulting firm, I work as a Software Engineer contributing to the development of innovative projects and solutions to meet the needs of one of the major players in the energy market.',
+                skills: "Javascript · Typescript · Vue.js · HTML 5 · React JS · Git · GitFlow · Node.js · CSS/Modules · BEM · AngularJS · REST · Design Patterns · Clean Code · Jest · Cypress · EsLint · Prettier · Commit-lint · Design System · Storybook · Micro-Frontend"
+            },
             modal: {
-                period: "AGO/2021 - NOW",
+                period: "AGO/2021 - DEC/2022",
                 role: "Senior Frontend",
                 location: "São Paulo, Brazil",
                 company: "Banco Modal",

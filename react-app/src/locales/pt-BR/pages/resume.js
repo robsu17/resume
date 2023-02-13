@@ -5,7 +5,8 @@ const resume = {
     profile: {
         name: "Luciano Braga",
         title: "Desenvolvedor Full Stack Sênior",
-        description: "Desenvolvedor desde 2007, sempre com grande interesse na resolução de problemas cotidianos através da tecnologia, principalmente a programação de computadores, utilizando linguagens para Web, Mobile ou Desktop."
+        description: "Utuando com desenvolvimento de software desde 2007, com foco no uso de tecnologia e programação, para resolver problemas práticos em plataformas web, mobile e desktop. Minha paixão por programação me levou a continuamente expandir minhas habilidades e enfrentar projetos desafiadores.",
+        skills: "Javascript · Typescript · Vue.js · HTML 5 · React JS · Git · GitFlow · Node.js · CSS/Modules · BEM · AngularJS · REST · Design Patterns · Clean Code · Jest · Cypress · EsLint · Prettier · Commit-lint · Design System · Storybook · Micro-Frontend"
     },
     contacts: {
         title: "Contatos"
@@ -30,12 +31,21 @@ const resume = {
     experiences: {
         title: "Experiência Profissional",
         companies: {
+            maitha: {
+                period: "AGO/2022 - Atual",
+                role: "Engenheiro de Software",
+                location: "São Paulo, Brasil",
+                company: "Maitha Tech",
+                description: 'Na Maitha Tech, uma consultoria especializada em tecnologia, atuo como Engenheiro de Software colaborando no desenvolvimento de projetos e soluções inovadoras para atender às necessidades de um dos grandes players do mercado de energia.',
+                skills: "Javascript · Typescript · Vue.js · HTML 5 · React JS · Git · GitFlow · Node.js · CSS/Modules · BEM · AngularJS · REST · Design Patterns · Clean Code · Jest · Cypress · EsLint · Prettier · Commit-lint · Design System · Storybook · Micro-Frontend"
+            },
             modal: {
-                period: "AGO/2021 - NOW",
+                period: "AGO/2021 - DEZ/2022",
                 role: "Frontend Sênior",
                 location: "São Paulo, Brasil",
                 company: "Banco Modal",
-                description: 'Colaborando com a Squad de Risco do Banco Modal, instituição pertencente ao Grupo XP que atua no mercado de ativos com operações de conta-corrente, crédito e investimentos, como Frontend Sênior desenvolvendo projetos nas areas de Bolsa e Home Brocker'
+                description: 'Como Frontend Sênior na Squad de Risco do Banco Modal, pertencente ao Grupo XP, liderei o desenvolvimento de projetos inovadores no mercado de ações e Home Brocker, garantindo sua manutenção e sustentabilidade. Entreguei soluções de alta qualidade com eficiência e colaboração, aprimorando a experiência dos usuários e contribuindo para o sucesso da instituição.',
+                skills: "Javascript · Typescript · Vue.js · HTML 5 · React JS · Git · GitFlow · Node.js · CSS/Modules · BEM · AngularJS · REST · Design Patterns · Clean Code · Jest · Cypress · EsLint · Prettier · Commit-lint · Design System · Storybook · Micro-Frontend"
             },
             devsquad: {
                 period: "JAN/2021 - SET/2021",
