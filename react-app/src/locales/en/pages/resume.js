@@ -36,7 +36,7 @@ const resume = {
                 location: "São Paulo, Brasil",
                 company: "Maitha Tech",
                 description: 'At Maitha Tech, a technology consulting firm, I work as a Software Engineer contributing to the development of innovative projects and solutions to meet the needs of one of the major players in the energy market.',
-                skills: "Javascript · Typescript · Vue.js · HTML 5 · React JS · Git · GitFlow · Node.js · CSS/Modules · BEM · AngularJS · REST · Design Patterns · Clean Code · Jest · Cypress · EsLint · Prettier · Commit-lint · Design System · Storybook · Micro-Frontend"
+                skills: "Javascript · Typescript · Vue.js · HTML 5 · React JS · Git · GitFlow · Node.js · Nest.js · Tailwind · BEM · AngularJS · REST · Design Patterns · Clean Code · Jest · Cypress · EsLint · Prettier · Commit-lint · Design System · Microservices"
             },
             modal: {
                 period: "AGO/2021 - DEC/2022",
@@ -83,7 +83,7 @@ const resume = {
         }
     },
     footer: {
-        available_in: "Available in"
+        available_in: "See a online version vailable in"
     }
 }
 
