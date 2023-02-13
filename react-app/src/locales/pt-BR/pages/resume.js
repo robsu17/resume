@@ -5,7 +5,7 @@ const resume = {
     profile: {
         name: "Luciano Braga",
         title: "Desenvolvedor Full Stack Sênior",
-        description: "Utuando com desenvolvimento de software desde 2007, com foco no uso de tecnologia e programação, para resolver problemas práticos em plataformas web, mobile e desktop. Minha paixão por programação me levou a continuamente expandir minhas habilidades e enfrentar projetos desafiadores.",
+        description: "Atuando com desenvolvimento de software desde 2007, com foco no uso de tecnologia e programação, para resolver problemas práticos em plataformas web, mobile e desktop. Minha paixão por programação me levou a continuamente expandir minhas habilidades e enfrentar projetos desafiadores.",
         skills: "Javascript · Typescript · Vue.js · HTML 5 · React JS · Git · GitFlow · Node.js · CSS/Modules · BEM · AngularJS · REST · Design Patterns · Clean Code · Jest · Cypress · EsLint · Prettier · Commit-lint · Design System · Storybook · Micro-Frontend"
     },
     contacts: {
