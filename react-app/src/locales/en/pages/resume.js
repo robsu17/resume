@@ -30,8 +30,16 @@ const resume = {
     experiences: {
         title: "Professional Experiences",
         companies: {
+            face: {
+                period: "MAR/2023 - Now",
+                role: "Senior Full-stack Developer",
+                location: "Santa Catarina, Brasil",
+                company: "FACE Digital",
+                description: "Developing innovative digital solutions with agile processes tailored to the clients' needs, including integrations with third - party solutions, tool development for other developers, legacy software migration, and continuous improvement.",
+                skills: "Javascript · Typescript · Vue.js · HTML 5 · React JS · Git · GitFlow · Node.js · Nest.js · Tailwind · BEM · AngularJS · REST · Design Patterns · Clean Code · Jest · Cypress · EsLint · Prettier · Commit-lint · Design System · Microservices"
+            },
             maitha: {
-                period: "AGO/2022 - Atual",
+                period: "AGO/2022 - MAR/2023",
                 role: "Software Engeneer",
                 location: "São Paulo, Brasil",
                 company: "Maitha Tech",

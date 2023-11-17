@@ -1,4 +1,4 @@
-import profilePhoto from '@assets/img/profile.png'
+import profilePhoto from '@assets/img/profile.jpg'
 import { useTranslation } from 'react-i18next'
 import Translate from '@components/Translate'
 import ButtonPrint from '@components/ButtonPrint';
