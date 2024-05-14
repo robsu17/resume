@@ -17,7 +17,7 @@ const resume = {
                 course: "Computer Science",
                 school: "Universidade Estadual do Vale do Acaraú",
                 location: "Sobral",
-                date: "2022 - Atual"
+                date: "2022 - Currently"
             }
         }
     },
@@ -32,24 +32,24 @@ const resume = {
         companies: {
             microsistec: {
                 period: "2024 - 2024",
-                role: "Desenvolvedor Full Stack",
+                role: "Full Stack Developer",
                 location: "Ceará, Brasil",
                 company: "Microsistec",
                 description: 'At Microsistec, I played important role in the development of the back-end and front-end. Additionaly, I engaged on responsabilities in the support and maintenance of legacy websites.'
             },
             classimoveis: {
                 period: "2023 - 2024",
-                role: "Desenvolvedor Full Stack",
+                role: "Full Stack Developer",
                 location: "Ceará, Brasil",
                 company: "Classimoveis",
                 description: 'At Classimoveis, I had the opportunity to play an integral role in the development of both the back-end and front-end of the application.'
             },
             freelancer: {
-                period: "2022 - Atual",
-                role: "Desenvolvedor Web",
+                period: "2022 - Currently",
+                role: "Web Developer",
                 location: "Ceará, Brasil",
                 company: "Freelancer",
-                description: 'Estudando programação web desde 2022, inicio como freelancer desenvolvendo sites para empresas de diversos segmentos e regiões do Brasil utilizando tecnologias como: HTML, CSS, Javascript, PHP e MySQL.'
+                description: 'Studying web programming since 2022, I started as freelancer developing websites for companies from many sectors and regions of Brazil using tecnologies such as: HTML, CSS, Javascript, PHP and MySQL.'
             }
         }
     },
