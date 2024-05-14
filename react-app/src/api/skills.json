@@ -1,11 +1,11 @@
 [
     {
         "id": 1,
-        "name": "Javascript · Typescript · Node.js · HTML 5 · CSS 3 · REST"
+        "name": "Javascript · Typescript · Node.js · Nestjs · HTML 5 · CSS 3 · REST"
     },
     {
         "id": 2,
-        "name": "PHP · Laravel · MySQL · MongoDB · Firebase · AWS · Microservices · Docker"
+        "name": "PHP · Laravel · MySQL · MongoDB · Firebase · Docker"
     },
     {
         "id": 3,
@@ -13,11 +13,11 @@
     },
     {
         "id": 4,
-        "name": "Vue.js · React · Angular · Nest.js"
+        "name": "Vue.js · React · Next.js"
     },
     {
         "id": 5,
-        "name": "Jest · Cypress · PHPUnit"
+        "name": "Jest · PHPUnit"
     },
     {
         "id": 6,
@@ -25,6 +25,6 @@
     },
     {
         "id": 7,
-        "name": "Design Patterns · Clean Code · Design System · SEO · DEVOPS · CI/CD"
+        "name": "Design Patterns · Clean Code · Design System"
     }
 ]
