@@ -31,26 +31,12 @@ const resume = {
         title: "Professional Experiences",
         companies: {
             microsistec: {
-                period: "2024 - 2024",
+                period: "Nov 2023 - Abr 2024",
                 role: "Full Stack Developer",
                 location: "Ceará, Brasil",
-                company: "Microsistec",
-                description: 'At Microsistec, I played important role in the development of the back-end and front-end. Additionaly, I engaged on responsabilities in the support and maintenance of legacy websites.'
+                company: "BeyondTech",
+                description: 'At BeyondTech, for six months, I worked as a web developer, primarily focusing on the front-end of client websites and utilizing technologies such as Vue, React (including Next.js), Blade, and Tailwind CSS. Additionally, I played a role in maintaining legacy projects, ensuring their stability and continuous functionality. Occasionally, I also contributed to back-end tasks using the Laravel framework.'
             },
-            classimoveis: {
-                period: "2023 - 2024",
-                role: "Full Stack Developer",
-                location: "Ceará, Brasil",
-                company: "Classimoveis",
-                description: 'At Classimoveis, I had the opportunity to play an integral role in the development of both the back-end and front-end of the application.'
-            },
-            freelancer: {
-                period: "2022 - Currently",
-                role: "Web Developer",
-                location: "Ceará, Brasil",
-                company: "Freelancer",
-                description: 'Studying web programming since 2022, I started as freelancer developing websites for companies from many sectors and regions of Brazil using tecnologies such as: HTML, CSS, Javascript, PHP and MySQL.'
-            }
         }
     },
     footer: {

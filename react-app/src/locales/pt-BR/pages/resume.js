@@ -32,26 +32,12 @@ const resume = {
         title: "Experiência Profissional",
         companies: {
             microsistec: {
-                period: "2024 - 2024",
-                role: "Desenvolvedor Full Stack",
-                location: "Ceará, Brasil",
-                company: "Microsistec",
-                description: 'Na Microsistec, desempenhei um papel central no desenvolvimento, tanto do back-end quanto do front-end. Além disso, assumi responsabilidades na sustentação e manutenção de sites legados.'
-            },
-            classimoveis: {
-                period: "2023 - 2024",
-                role: "Desenvolvedor Full Stack",
-                location: "Ceará, Brasil",
-                company: "Classimoveis",
-                description: 'Na Classimoveis, tive a oportunidade de desempenhar um papel integral no desenvolvimento tanto do back-end quanto do front-end da aplicação.'
-            },
-            freelancer: {
-                period: "2022 - Atual",
+                period: "Nov 2023 - Abr 2024",
                 role: "Desenvolvedor Web",
                 location: "Ceará, Brasil",
-                company: "Freelancer",
-                description: 'Estudando programação web desde 2022, inicio como freelancer desenvolvendo sites para empresas de diversos segmentos e regiões do Brasil utilizando tecnologias como: HTML, CSS, Javascript, PHP e MySQL.'
-            }
+                company: "BeyondTech",
+                description: 'Na BeyondTech, durante seis meses, atuei como desenvolvedor web, concentrando-me principalmente no front-end dos sites dos clientes e utilizando tecnologias como Vue, React (incluindo Next.js), Blade e Tailwind CSS. Além disso, desempenhei um papel na sustentação de projetos legados, garantindo sua estabilidade e funcionalidade contínua. Ocasionalmente, também contribuí para tarefas de back-end, utilizando o framework Laravel.'
+            },
         }
     },
     footer: {
