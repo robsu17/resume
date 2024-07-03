@@ -33,10 +33,17 @@ const resume = {
         companies: {
             microsistec: {
                 period: "Nov 2023 - Abr 2024",
-                role: "Desenvolvedor Web",
+                role: "Desenvolvedor Full Stack",
                 location: "Ceará, Brasil",
                 company: "BeyondTech",
                 description: 'Na BeyondTech, durante seis meses, atuei como desenvolvedor web, concentrando-me principalmente no front-end dos sites dos clientes e utilizando tecnologias como Vue, React (incluindo Next.js), Blade e Tailwind CSS. Além disso, desempenhei um papel na sustentação de projetos legados, garantindo sua estabilidade e funcionalidade contínua. Ocasionalmente, também contribuí para tarefas de back-end, utilizando o framework Laravel.'
+            },
+            umcliquedigital: {
+                period: "Jul 2024 - Atual",
+                role: "Desenvolvedor Full Stack",
+                location: "Ceará, Brasil",
+                company: "UmCliqueDigital",
+                description: 'Na umcliquedigital, trabalho como desenvolvedor fullstack, cuidando tanto do front-end quanto do back-end. No front-end, utilizo React para criar interfaces de usuário dinâmicas e interativas. No back-end, uso Laravel para desenvolver soluções robustas e eficientes. Minha função envolve criar e implementar funcionalidades que funcionam bem e são fáceis de usar, além de otimizar o desempenho dos nossos projetos. Gosto de garantir que a experiência do usuário seja fluida e intuitiva, sempre focando nas necessidades dos clientes e na qualidade do nosso trabalho.'
             },
         }
     },
