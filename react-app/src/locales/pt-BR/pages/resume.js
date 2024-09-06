@@ -39,7 +39,7 @@ const resume = {
                 description: 'Na BeyondTech, durante seis meses, atuei como desenvolvedor web, concentrando-me principalmente no front-end dos sites dos clientes e utilizando tecnologias como Vue, React (incluindo Next.js), Blade e Tailwind CSS. Além disso, desempenhei um papel na sustentação de projetos legados, garantindo sua estabilidade e funcionalidade contínua. Ocasionalmente, também contribuí para tarefas de back-end, utilizando o framework Laravel.'
             },
             umcliquedigital: {
-                period: "Jul 2024 - Atual",
+                period: "Jul 2024 - SET 2024",
                 role: "Desenvolvedor Full Stack",
                 location: "Ceará, Brasil",
                 company: "UmCliqueDigital",
