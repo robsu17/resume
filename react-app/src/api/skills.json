@@ -1,30 +1,18 @@
 [
     {
         "id": 1,
-        "name": "Javascript · Typescript · Node.js · Nestjs · HTML 5 · CSS 3 · REST"
+        "name": "Javascript · PHP · C#"
     },
     {
         "id": 2,
-        "name": "PHP · Laravel · MySQL · MongoDB · Firebase · Docker"
+        "name": "React · Nextjs · Vue · Nuxtjs"
     },
     {
         "id": 3,
-        "name": "SASS · BEM · EsLint · Prettier · Tailwind"
+        "name": "MySql · Postgresql · MongoDB"
     },
     {
         "id": 4,
-        "name": "Vue.js · React · Next.js"
-    },
-    {
-        "id": 5,
-        "name": "Jest · PHPUnit"
-    },
-    {
-        "id": 6,
-        "name": "Scrum · Kanban · Git · Gitflow · Commit-lint ·"
-    },
-    {
-        "id": 7,
-        "name": "Design Patterns · Clean Code · Design System"
+        "name": "Laravel Framework · .Net Framework"
     }
 ]

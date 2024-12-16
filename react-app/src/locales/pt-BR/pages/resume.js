@@ -6,7 +6,7 @@ const resume = {
         name: "Robson Wendel",
         title: "Desenvolvedor Full Stack Junior",
         description: "Atuando com desenvolvimento de software desde 2023, com foco no uso de tecnologia e programação, para resolver problemas práticos em plataformas web, mobile e desktop. Minha paixão por programação me levou a continuamente expandir minhas habilidades e enfrentar projetos desafiadores.",
-        skills: "Javascript · Typescript · Vue.js · HTML 5 · React JS · Git · Node.js · CSS/Modules · REST · Design Patterns · Clean Code · Jest · EsLint · Prettier · Commit-lint · Design System · Storybook · Micro-Frontend"
+        skills: "Javascript · Typescript · Vue.js · HTML 5 · React JS · Git · Node.js"
     },
     contacts: {
         title: "Contatos"
