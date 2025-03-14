@@ -45,11 +45,18 @@ const resume = {
                 description: 'At umcliquedigital, I work as a fullstack developer, handling both front-end and back-end development. On the front-end, I use React to create dynamic and interactive user interfaces. On the back-end, I utilize Laravel to develop robust and efficient solutions. My role involves creating and implementing features that are both functional and user-friendly, as well as optimizing the performance of our projects. I aim to ensure a smooth and intuitive user experience, always focusing on our clients needs and the quality of our work.'
             },
             unimed: {
-                period: "AGO 2024 - Currently",
+                period: "AGO 2024 - FEV 2025",
                 role: "Full Stack Developer",
                 location: "Ceará, Brasil",
-                company: "Unimed",
+                company: "Unimed Sobral",
                 description: "At Unimed, I am a Software Development Intern, working on the analysis and development of internal and external systems to solve IT problems."
+            },
+            uxsoftware: {
+                period: "MAR 2024 - Currently",
+                role: "Back-end Developer",
+                location: "Ceará, Brasil",
+                company: "UxSoftware",
+                description: "At Uxsoftware, I am a Back-end Developer, working on the analysis and development of systems for partner clients."
             }
         }
     },
