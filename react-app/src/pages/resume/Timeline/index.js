@@ -61,7 +61,7 @@ export default function Timeline () {
                     <div className="w-4/12 md:w-48 flex-none relative border-r border-neutral-400 pb-4 pr-4">
                         <div className="bg-neutral-700 w-2 h-2 rounded-full absolute -right-[0.27rem] border-2 border-neutral-400"></div>
                         <h3 className="text-neutral-600 font-bold mb-0 text-sm">{ t("resume.experiences.companies.uxsoftware.role") }</h3>
-                        <span className="bg-neutral-200 text-xs text-neutral-400 py-1 px-2 rounded-sm uppercase">{ t("resume.experiences.companies.unimed.period") }</span>
+                        <span className="bg-neutral-200 text-xs text-neutral-400 py-1 px-2 rounded-sm uppercase">{ t("resume.experiences.companies.uxsoftware.period") }</span>
                     </div>
                     <div className="grow p-4 pl-6 pt-0 relative">
                         <h3 className="text-neutral-600 font-bold mb-0 text-sm">{ t("resume.experiences.companies.uxsoftware.company") }</h3>
